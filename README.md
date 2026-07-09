@@ -8,7 +8,7 @@
 
 🌱 Currently learning MLOps, Docker & Cloud Deployment
 
-📫 Reach me: your-email@gmail.com
+📫 Reach me: deekshitharangaswamy16@gmail.com@gmail.com
 
 ## 🛠️ Tech Stack
 - Python
