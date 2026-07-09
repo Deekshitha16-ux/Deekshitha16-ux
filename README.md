@@ -11,7 +11,7 @@
 📫 Reach me: deekshitharangaswamy16@gmail.com
 
 ## 🛠️ Tech Stack
-- Python
+- Python 
 - TensorFlow
 - PyTorch
 - Scikit-learn
