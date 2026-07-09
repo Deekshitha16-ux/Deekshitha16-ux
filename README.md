@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi 👋, I'm Deekshitha R
 
-<!--
-**Deekshitha16-ux/Deekshitha16-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Graduate (2026)
 
-Here are some ideas to get you started:
+🤖 AI & Machine Learning Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Building AI, Deep Learning & Computer Vision Projects
+
+🌱 Currently learning MLOps, Docker & Cloud Deployment
+
+📫 Reach me: your-email@gmail.com
+
+## 🛠️ Tech Stack
+- Python
+- TensorFlow
+- PyTorch
+- Scikit-learn
+- OpenCV
+- FastAPI
+- Docker
+- Git & GitHub
+- SQL
+
+## 🚀 Featured Projects
+- Sign Language Translation System
+- YOLOv8 Object Detection
+- AI Interview Preparation Platform
+- Farm-to-Farm Marketplace
