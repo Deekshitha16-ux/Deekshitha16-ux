@@ -23,6 +23,4 @@
 
 ## 🚀 Featured Projects
 - Sign Language Translation System
-- YOLOv8 Object Detection
-- AI Interview Preparation Platform
 - Farm-to-Farm Marketplace
